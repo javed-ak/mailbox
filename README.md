@@ -63,7 +63,7 @@ Before running this application, ensure you have the following installed:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/javed-ak/mailbox.git
-cd mailbox-application
+cd mailbox
 ```
 
 ### 2. Install Dependencies
